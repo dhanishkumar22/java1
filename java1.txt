@@ -1,0 +1,4 @@
+pubic static vaoid main( args[])
+{
+system.out.printnn
+}
